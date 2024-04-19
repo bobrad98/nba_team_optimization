@@ -1,0 +1,1309 @@
+team 1
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+354 Julius Randle 87 21.78
+---------------------
+overall 83.42603191120362
+team salary 61101647.0 = 44.73% of available space
+
+team 2
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 79.22283005105763
+team salary 30514874.0 = 22.34% of available space
+
+team 4
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+354 Julius Randle 87 21.78
+---------------------
+overall 86.06053698074975
+team salary 100237926.0 = 73.38% of available space
+
+team 5
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 87.79228855721391
+team salary 128589038.0 = 94.13% of available space
+
+team 7
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 85.52766428328226
+team salary 89452759.0 = 65.48% of available space
+
+team 9
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+410 Isaiah Todd 70 1.5
+---------------------
+overall 81.83580508474576
+team salary 40795187.0 = 29.86% of available space
+
+team 10
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+166 Quentin Grimes 71 2.16864
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 85.72120285423036
+team salary 91412778.0 = 66.92% of available space
+
+team 12
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+79 Vernon Carey 72 1.517981
+---------------------
+overall 84.91358024691358
+team salary 79975907.0 = 58.54% of available space
+
+team 13
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 87.79228855721391
+team salary 128589038.0 = 94.13% of available space
+
+team 14
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+445 Cassius Winston 69 0.462629
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+79 Vernon Carey 72 1.517981
+---------------------
+overall 84.48442367601247
+team salary 78227896.0 = 57.27% of available space
+
+team 17
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 79.22283005105763
+team salary 30514874.0 = 22.34% of available space
+
+team 19
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 79.22283005105763
+team salary 30514874.0 = 22.34% of available space
+
+team 21
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+445 Cassius Winston 69 0.462629
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+79 Vernon Carey 72 1.517981
+---------------------
+overall 84.48442367601247
+team salary 78227896.0 = 57.27% of available space
+
+team 22
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+354 Julius Randle 87 21.78
+---------------------
+overall 83.42603191120362
+team salary 61101647.0 = 44.73% of available space
+
+team 23
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 79.22283005105763
+team salary 30514874.0 = 22.34% of available space
+
+team 24
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+445 Cassius Winston 69 0.462629
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+79 Vernon Carey 72 1.517981
+---------------------
+overall 81.44361437210956
+team salary 39091617.0 = 28.62% of available space
+
+team 25
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 87.79228855721391
+team salary 128589038.0 = 94.13% of available space
+
+team 26
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 87.79228855721391
+team salary 128562578.0 = 94.11% of available space
+
+team 28
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 87.79228855721391
+team salary 128589038.0 = 94.13% of available space
+
+team 29
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+79 Vernon Carey 72 1.517981
+---------------------
+overall 87.0290110998991
+team salary 117474069.0 = 85.99% of available space
+
+team 30
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+445 Cassius Winston 69 0.462629
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+79 Vernon Carey 72 1.517981
+---------------------
+overall 84.48442367601247
+team salary 78227896.0 = 57.27% of available space
+
+team 31
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 87.79228855721391
+team salary 128562578.0 = 94.11% of available space
+
+team 32
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+445 Cassius Winston 69 0.462629
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+79 Vernon Carey 72 1.517981
+---------------------
+overall 84.48442367601247
+team salary 78227896.0 = 57.27% of available space
+
+team 33
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+354 Julius Randle 87 21.78
+---------------------
+overall 83.42603191120362
+team salary 61101647.0 = 44.73% of available space
+
+team 34
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 79.22283005105763
+team salary 30514874.0 = 22.34% of available space
+
+team 35
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 79.22283005105763
+team salary 30514874.0 = 22.34% of available space
+
+team 36
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 87.79228855721391
+team salary 128562578.0 = 94.11% of available space
+
+team 38
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 81.38782051282051
+team salary 38378716.0 = 28.09% of available space
+
+team 39
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+55 Ignas Brazdeikis 69 0.462629
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 87.52315279170845
+team salary 127269046.0 = 93.17% of available space
+
+team 40
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+67 Charlie Brown 69 0.19186
+266 Terance Mann 77 1.782621
+58 Oshae Brissett 76 1.701593
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+287 Chimezie Metu 74 1.762796
+410 Isaiah Todd 70 1.5
+---------------------
+overall 77.31396648044695
+team salary 24675695.0 = 18.06% of available space
+
+team 41
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+445 Cassius Winston 69 0.462629
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+79 Vernon Carey 72 1.517981
+---------------------
+overall 84.48442367601247
+team salary 78227896.0 = 57.27% of available space
+
+team 43
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 87.79228855721391
+team salary 128589038.0 = 94.13% of available space
+
+team 44
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 79.22283005105763
+team salary 30514874.0 = 22.34% of available space
+
+team 45
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+58 Oshae Brissett 76 1.701593
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 78.36622807017545
+team salary 29163866.0 = 21.35% of available space
+
+team 46
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+79 Vernon Carey 72 1.517981
+---------------------
+overall 87.0290110998991
+team salary 117474069.0 = 85.99% of available space
+
+team 47
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+420 Gabe Vincent 70 1.669178
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 87.52315279170845
+team salary 128021116.0 = 93.72% of available space
+
+team 48
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+445 Cassius Winston 69 0.462629
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+79 Vernon Carey 72 1.517981
+---------------------
+overall 84.48442367601247
+team salary 78227896.0 = 57.27% of available space
+
+team 50
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 81.38782051282051
+team salary 38378716.0 = 28.09% of available space
+
+team 51
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+55 Ignas Brazdeikis 69 0.462629
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 87.52315279170845
+team salary 127269046.0 = 93.17% of available space
+
+team 52
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 87.79228855721391
+team salary 128562578.0 = 94.11% of available space
+
+team 53
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+79 Vernon Carey 72 1.517981
+---------------------
+overall 87.0290110998991
+team salary 117447609.0 = 85.98% of available space
+
+team 54
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+325 Victor Oladipo 80 2.389641
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 87.35310310310312
+team salary 125483147.0 = 91.86% of available space
+
+team 55
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+79 Vernon Carey 72 1.517981
+---------------------
+overall 87.0290110998991
+team salary 117447609.0 = 85.98% of available space
+
+team 56
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 79.22283005105763
+team salary 30514874.0 = 22.34% of available space
+
+team 57
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 79.22283005105763
+team salary 30514874.0 = 22.34% of available space
+
+team 58
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+410 Isaiah Todd 70 1.5
+---------------------
+overall 81.83580508474576
+team salary 40795187.0 = 29.86% of available space
+
+team 59
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+58 Oshae Brissett 76 1.701593
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 80.552284082798
+team salary 37027708.0 = 27.11% of available space
+
+team 60
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+445 Cassius Winston 69 0.462629
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+79 Vernon Carey 72 1.517981
+---------------------
+overall 86.67107942973523
+team salary 115699598.0 = 84.7% of available space
+
+team 61
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+79 Vernon Carey 72 1.517981
+---------------------
+overall 87.0290110998991
+team salary 117474069.0 = 85.99% of available space
+
+team 63
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 87.79228855721391
+team salary 128562578.0 = 94.11% of available space
+
+team 64
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+55 Ignas Brazdeikis 69 0.462629
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+79 Vernon Carey 72 1.517981
+---------------------
+overall 86.71049508307901
+team salary 116154077.0 = 85.03% of available space
+
+team 66
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+354 Julius Randle 87 21.78
+---------------------
+overall 83.42603191120362
+team salary 61075187.0 = 44.71% of available space
+
+team 68
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 81.38782051282051
+team salary 38378716.0 = 28.09% of available space
+
+team 69
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 79.22283005105763
+team salary 30514874.0 = 22.34% of available space
+
+team 72
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 83.28020833333335
+team salary 51928137.0 = 38.01% of available space
+
+team 73
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 81.38782051282051
+team salary 38378716.0 = 28.09% of available space
+
+team 74
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 79.22283005105763
+team salary 30514874.0 = 22.34% of available space
+
+team 75
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+79 Vernon Carey 72 1.517981
+---------------------
+overall 84.91358024691358
+team salary 79975907.0 = 58.54% of available space
+
+team 77
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+452 Omer Yurtseven 72 1.489065
+410 Isaiah Todd 70 1.5
+---------------------
+overall 79.13815789473685
+team salary 30214683.0 = 22.12% of available space
+
+team 78
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 81.38782051282051
+team salary 38378716.0 = 28.09% of available space
+
+team 79
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+58 Oshae Brissett 76 1.701593
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+410 Isaiah Todd 70 1.5
+---------------------
+overall 78.36622807017545
+team salary 29137406.0 = 21.33% of available space
+
+team 81
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+58 Oshae Brissett 76 1.701593
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 80.552284082798
+team salary 37027708.0 = 27.11% of available space
+
+team 82
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+67 Charlie Brown 69 0.19186
+266 Terance Mann 77 1.782621
+58 Oshae Brissett 76 1.701593
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+287 Chimezie Metu 74 1.762796
+410 Isaiah Todd 70 1.5
+---------------------
+overall 77.31396648044695
+team salary 24675695.0 = 18.06% of available space
+
+team 83
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 87.79228855721391
+team salary 128562578.0 = 94.11% of available space
+
+team 85
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+79 Vernon Carey 72 1.517981
+---------------------
+overall 87.0290110998991
+team salary 117447609.0 = 85.98% of available space
+
+team 86
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+354 Julius Randle 87 21.78
+---------------------
+overall 86.06053698074975
+team salary 100237926.0 = 73.38% of available space
+
+team 87
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 87.79228855721391
+team salary 128562578.0 = 94.11% of available space
+
+team 88
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 85.52766428328226
+team salary 89452759.0 = 65.48% of available space
+
+team 89
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 81.38782051282051
+team salary 38378716.0 = 28.09% of available space
+
+team 90
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+428 TJ Warren 82 12.94
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+354 Julius Randle 87 21.78
+---------------------
+overall 83.84134781109962
+team salary 72168449.0 = 52.83% of available space
+
+team 91
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 87.79228855721391
+team salary 128589038.0 = 94.13% of available space
+
+team 93
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+115 Damyean Dotson 70 0.205662
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+354 Julius Randle 87 21.78
+---------------------
+overall 85.8550577053632
+team salary 98954523.0 = 72.44% of available space
+
+team 94
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+140 Wenyen Gabriel 70 0.19876
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 79.22283005105763
+team salary 30514874.0 = 22.34% of available space
+
+team 96
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+58 Oshae Brissett 76 1.701593
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 78.36622807017545
+team salary 29163866.0 = 21.35% of available space
+
+team 97
+112 Luka Doncic 94 10.174391
+197 Markus Howard 67 0.462629
+249 Saben Lee 75 1.489065
+67 Charlie Brown 69 0.19186
+266 Terance Mann 77 1.782621
+58 Oshae Brissett 76 1.701593
+291 Shake Milton 76 1.846738
+77 Vlatko Cancar 70 1.782621
+55 Ignas Brazdeikis 69 0.462629
+140 Wenyen Gabriel 70 0.19876
+287 Chimezie Metu 74 1.762796
+410 Isaiah Todd 70 1.5
+---------------------
+overall 76.76822623074032
+team salary 23355703.0 = 17.1% of available space
+
+team 98
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+18 Deandre Ayton 86 12.63295
+---------------------
+overall 87.79228855721391
+team salary 128589038.0 = 94.13% of available space
+
+team 99
+112 Luka Doncic 94 10.174391
+450 Trae Young 89 8.326471
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+266 Terance Mann 77 1.782621
+150 Shai Gilgeous-Alexander 86 5.495532
+252 Kawhi Leonard 95 39.3449
+123 Kevin Durant 96 40.9189
+344 Kevin Porter 77 1.782621
+196 Dwight Howard 78 2.641691
+287 Chimezie Metu 74 1.762796
+79 Vernon Carey 72 1.517981
+---------------------
+overall 87.0290110998991
+team salary 117447609.0 = 85.98% of available space
+

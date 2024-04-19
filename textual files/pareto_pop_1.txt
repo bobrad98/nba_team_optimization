@@ -1,0 +1,306 @@
+team 1
+71 Trey Burke 75 3.15
+93 Mike Conley 83 21.0
+360 Grant Riller 69 0.162186
+112 Luka Doncic 94 10.174391
+273 Kelan Martin 72 1.701593
+58 Oshae Brissett 76 1.701593
+237 Corey Kispert 74 3.38364
+124 Anthony Edwards 81 10.24548
+397 Jae'Sean Tate 77 1.517981
+348 Dwight Powell 75 11.080125
+144 Usman Garuba 72 2.35332
+282 JaVale McGee 76 5.0
+---------------------
+overall 79.61904761904762
+team salary 71470309.0 = 52.32% of available space
+
+team 9
+222 Keon Johnson 73 2.55324
+21 LaMelo Ball 84 8.23176
+315 Kendrick Nunn 78 5.0
+360 Grant Riller 69 0.162186
+47 Leandro Bolmaro 71 2.35332
+236 Louis King 68 0.462629
+412 Juan Toscano-Anderson 75 1.701593
+419 Devin Vassell 74 4.23516
+27 Scottie Barnes 76 7.2804
+332 Jabari Parker 73 2.339544
+90 Nicolas Claxton 76 1.782621
+393 Isaiah Stewart 78 3.27708
+---------------------
+overall 76.33817504655494
+team salary 39379533.0 = 28.83% of available space
+
+team 13
+297 Ja Morant 85 9.60336
+450 Trae Young 89 8.326471
+217 Isaiah Joe 71 1.517981
+184 Tyler Herro 79 4.00428
+34 Bradley Beal 89 33.7242
+279 Jaden McDaniels 75 2.06328
+252 Kawhi Leonard 95 39.3449
+349 Josh Primo 71 3.9468
+430 Yuta Watanabe 74 1.762796
+326 Kelly Olynyk 78 12.195122
+405 Tristan Thompson 77 9.7209
+323 Isaac Okoro 74 6.72072
+---------------------
+overall 83.45062695924764
+team salary 132930810.0 = 97.31% of available space
+
+team 17
+112 Luka Doncic 94 10.174391
+143 Darius Garland 82 7.04088
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+58 Oshae Brissett 76 1.701593
+54 Jarrell Brantley 70 1.782621
+183 Juan Hernangomez 75 2.32722
+220 Alize Johnson 74 0.80498
+55 Ignas Brazdeikis 69 0.462629
+373 Luka Samanic 71 3.421709
+382 Pascal Siakam 83 33.003936
+401 Daniel Theis 76 8.280351
+---------------------
+overall 79.74665944384253
+team salary 72700015.0 = 53.22% of available space
+
+team 20
+112 Luka Doncic 94 10.174391
+143 Darius Garland 82 7.04088
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+58 Oshae Brissett 76 1.701593
+54 Jarrell Brantley 70 1.782621
+252 Kawhi Leonard 95 39.3449
+166 Quentin Grimes 71 2.16864
+55 Ignas Brazdeikis 69 0.462629
+373 Luka Samanic 71 3.421709
+382 Pascal Siakam 83 33.003936
+401 Daniel Theis 76 8.280351
+---------------------
+overall 82.31631205673757
+team salary 111081355.0 = 81.32% of available space
+
+team 22
+352 Immanuel Quickley 78 2.21064
+112 Luka Doncic 94 10.174391
+276 Miles McBride 70 0.925258
+184 Tyler Herro 79 4.00428
+25 Dalano Banton 69 0.925258
+47 Leandro Bolmaro 71 2.35332
+252 Kawhi Leonard 95 39.3449
+14 OG Anunoby 79 16.071429
+39 Saddiq Bey 78 2.82432
+179 Jaxson Hayes 76 5.34828
+214 Isaiah Jackson 72 2.45124
+79 Vernon Carey 72 1.517981
+---------------------
+overall 81.39710610932475
+team salary 88151297.0 = 64.53% of available space
+
+team 29
+71 Trey Burke 75 3.15
+93 Mike Conley 83 21.0
+360 Grant Riller 69 0.162186
+112 Luka Doncic 94 10.174391
+273 Kelan Martin 72 1.701593
+58 Oshae Brissett 76 1.701593
+237 Corey Kispert 74 3.38364
+124 Anthony Edwards 81 10.24548
+397 Jae'Sean Tate 77 1.517981
+348 Dwight Powell 75 11.080125
+269 Lauri Markkanen 79 15.690909
+282 JaVale McGee 76 5.0
+---------------------
+overall 80.14124597207304
+team salary 84807898.0 = 62.08% of available space
+
+team 33
+352 Immanuel Quickley 78 2.21064
+112 Luka Doncic 94 10.174391
+276 Miles McBride 70 0.925258
+184 Tyler Herro 79 4.00428
+25 Dalano Banton 69 0.925258
+47 Leandro Bolmaro 71 2.35332
+252 Kawhi Leonard 95 39.3449
+14 OG Anunoby 79 16.071429
+39 Saddiq Bey 78 2.82432
+179 Jaxson Hayes 76 5.34828
+144 Usman Garuba 72 2.35332
+79 Vernon Carey 72 1.517981
+---------------------
+overall 81.39710610932475
+team salary 88053377.0 = 64.46% of available space
+
+team 41
+68 Jalen Brunson 78 1.802057
+289 Patrick Mills 77 5.89
+202 Bones Hyland 71 2.09688
+267 Tre Mann 72 2.90124
+328 Miye Oni 70 1.782621
+12 Carmelo Anthony 78 2.641691
+291 Shake Milton 76 1.846738
+114 Ayo Dosunmu 70 0.925258
+250 Damion Lee 73 1.91086
+4 LaMarcus Aldridge 79 2.641691
+448 Robert Woodard 70 1.517981
+338 Mason Plumlee 79 9.248333
+---------------------
+overall 76.2110862262038
+team salary 35205350.0 = 25.77% of available space
+
+team 54
+361 Austin Rivers 74 2.401537
+101 Seth Curry 77 8.207518
+67 Charlie Brown 69 0.19186
+217 Isaiah Joe 71 1.517981
+167 Rui Hachimura 78 4.91616
+280 Jalen McDaniels 74 1.782621
+164 Josh Green 71 2.95752
+343 Otto Porter 77 2.389641
+221 James Johnson 73 2.641691
+120 Andre Drummond 79 2.401537
+423 Moritz Wagner 74 1.729217
+393 Isaiah Stewart 78 3.27708
+---------------------
+overall 75.98454376163873
+team salary 34414363.0 = 25.19% of available space
+
+team 58
+71 Trey Burke 75 3.15
+93 Mike Conley 83 21.0
+360 Grant Riller 69 0.162186
+112 Luka Doncic 94 10.174391
+273 Kelan Martin 72 1.701593
+58 Oshae Brissett 76 1.701593
+237 Corey Kispert 74 3.38364
+123 Kevin Durant 96 40.9189
+397 Jae'Sean Tate 77 1.517981
+348 Dwight Powell 75 11.080125
+144 Usman Garuba 72 2.35332
+282 JaVale McGee 76 5.0
+---------------------
+overall 82.06123535676251
+team salary 102143729.0 = 74.77% of available space
+
+team 67
+112 Luka Doncic 94 10.174391
+143 Darius Garland 82 7.04088
+249 Saben Lee 75 1.489065
+352 Immanuel Quickley 78 2.21064
+32 Kent Bazemore 74 2.401537
+54 Jarrell Brantley 70 1.782621
+183 Juan Hernangomez 75 2.32722
+103 Terence Davis 74 4.0
+55 Ignas Brazdeikis 69 0.462629
+373 Luka Samanic 71 3.421709
+454 Ivica Zubac 78 7.518518
+401 Daniel Theis 76 8.280351
+---------------------
+overall 78.93740902474528
+team salary 51109561.0 = 37.41% of available space
+
+team 70
+276 Miles McBride 70 0.925258
+197 Markus Howard 67 0.462629
+286 Sam Merrill 71 1.517981
+379 Collin Sexton 82 6.349671
+319 Semi Ojeleye 73 1.789256
+58 Oshae Brissett 76 1.701593
+192 Rodney Hood 72 2.239544
+77 Vlatko Cancar 70 1.782621
+443 Dylan Windler 73 2.2392
+196 Dwight Howard 78 2.641691
+53 Tony Bradley 74 1.789256
+410 Isaiah Todd 70 1.5
+---------------------
+overall 74.6324200913242
+team salary 24938700.0 = 18.26% of available space
+
+team 73
+297 Ja Morant 85 9.60336
+284 Ben McLemore 71 2.389641
+263 Kyle Lowry 83 26.984128
+112 Luka Doncic 94 10.174391
+444 Justise Winslow 74 3.902439
+359 Josh Richardson 76 11.615328
+28 RJ Barrett 83 8.62392
+61 Jaylen Brown 86 26.758928
+430 Yuta Watanabe 74 1.762796
+196 Dwight Howard 78 2.641691
+132 Bruno Fernando 71 1.782621
+454 Ivica Zubac 78 7.518518
+---------------------
+overall 82.57135362014691
+team salary 113757761.0 = 83.27% of available space
+
+team 75
+116 Devon Dotson 69 0.462629
+361 Austin Rivers 74 2.401537
+136 Trent Forrest 69 0.462629
+284 Ben McLemore 71 2.389641
+270 Naji Marshall 72 1.517981
+72 Alec Burks 77 9.536
+430 Yuta Watanabe 74 1.762796
+212 Josh Jackson 75 5.00535
+295 Malik Monk 76 1.789256
+452 Omer Yurtseven 72 1.489065
+227 Kai Jones 72 2.77056
+120 Andre Drummond 79 2.401537
+---------------------
+overall 74.64734848484848
+team salary 31988981.0 = 23.42% of available space
+
+team 82
+361 Austin Rivers 74 2.401537
+101 Seth Curry 77 8.207518
+67 Charlie Brown 69 0.19186
+450 Trae Young 89 8.326471
+167 Rui Hachimura 78 4.91616
+280 Jalen McDaniels 74 1.782621
+164 Josh Green 71 2.95752
+343 Otto Porter 77 2.389641
+12 Carmelo Anthony 78 2.641691
+120 Andre Drummond 79 2.401537
+423 Moritz Wagner 74 1.729217
+393 Isaiah Stewart 78 3.27708
+---------------------
+overall 78.39324618736383
+team salary 41222853.0 = 30.18% of available space
+
+team 92
+71 Trey Burke 75 3.15
+93 Mike Conley 83 21.0
+360 Grant Riller 69 0.162186
+112 Luka Doncic 94 10.174391
+273 Kelan Martin 72 1.701593
+58 Oshae Brissett 76 1.701593
+237 Corey Kispert 74 3.38364
+124 Anthony Edwards 81 10.24548
+397 Jae'Sean Tate 77 1.517981
+348 Dwight Powell 75 11.080125
+294 Evan Mobley 78 8.07516
+282 JaVale McGee 76 5.0
+---------------------
+overall 80.00537634408602
+team salary 77192149.0 = 56.51% of available space
+
+team 97
+100 Stephen Curry 96 45.780966
+304 Dejounte Murray 82 15.42888
+283 Rodney McGruder 73 1.93935
+297 Ja Morant 85 9.60336
+172 Moe Harkless 72 4.3476
+212 Josh Jackson 75 5.00535
+426 Lonnie Walker 75 4.453617
+321 Josh Okogie 75 4.087904
+163 Javonte Green 72 1.669178
+214 Isaiah Jackson 72 2.45124
+233 Frank Kaminsky 76 2.089448
+442 Zion Williamson 89 10.7334
+---------------------
+overall 82.16666666666667
+team salary 107590293.0 = 78.76% of available space
+
